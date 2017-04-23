@@ -11,4 +11,5 @@ class Singleton2
     private
 Lorem
 bla bla
+
 }
