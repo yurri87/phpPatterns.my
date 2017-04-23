@@ -9,5 +9,5 @@ class Singleton2
     private $props = array();
 //    экземеляр самого себя
     private123123
-dfsgsdfsdf
+sdfsdf
 }

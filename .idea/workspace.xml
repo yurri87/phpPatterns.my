@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2b1f59f-8768-450b-82c6-b9f585f7528f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Test/TestClass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/DecoyDuck.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/Duck.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/FlyBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/FlyNoWay.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/FlyWithWings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/MallardDuck.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/MuteQuack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/Quack.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/QuackBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/RedheadDuck.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/RubberDuck.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/Singleton.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/Singleton2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/Squeak.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/classes/statica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test(удалить потом).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/проба.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/classes/Singleton2.php" afterPath="$PROJECT_DIR$/app/classes/Singleton2.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/app/classes/Singleton2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
-              <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -566,7 +549,7 @@
       <workItem from="1492917328067" duration="5485000" />
       <workItem from="1492968629353" duration="2090000" />
       <workItem from="1492973106415" duration="4696000" />
-      <workItem from="1492984145826" duration="742000" />
+      <workItem from="1492984145826" duration="1533000" />
     </task>
     <task id="LOCAL-00001" summary="дофига всего сделал, композер поставил, аутолоад сделал">
       <created>1492536842773</created>
@@ -593,7 +576,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88337000" />
+    <option name="totallyTimeSpent" value="89128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1382,7 +1365,7 @@
     <entry file="file://$PROJECT_DIR$/app/classes/Singleton2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
