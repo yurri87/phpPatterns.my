@@ -11,5 +11,19 @@ class Singleton2
     private
 Lorem
 bla bla
+fsdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffssssssssssssssdf
 
+
+
+
+
+
+
+
+
+
+
+
+
+sdf sdf sdfffffffffffffsdfffffffffffffffffffffffffffffff
 }
