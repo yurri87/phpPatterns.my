@@ -10,4 +10,5 @@ class Singleton2
 //    экземеляр самого себя
     private
 Lorem
+bla bla
 }
