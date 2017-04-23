@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\app\classes\DecoyDuck</OriginalElement>
+  <nodes>
+    <node x="0.0" y="306.0">\app\classes\MallardDuck</node>
+    <node x="125.0" y="79.0">\app\classes\FlyNoWay</node>
+    <node x="286.0" y="306.0">\app\classes\DecoyDuck</node>
+    <node x="63.75" y="0.0">\app\classes\FlyBehavior</node>
+    <node x="114.0" y="232.0">\app\classes\quack</node>
+    <node x="144.0" y="306.0">\app\classes\RubberDuck</node>
+    <node x="223.0" y="153.0">\app\classes\RedheadDuck</node>
+    <node x="0.0" y="79.0">\app\classes\FlyWithWings</node>
+    <node x="0.0" y="232.0">\app\classes\MuteQuack</node>
+    <node x="0.0" y="380.0">\app\classes\Squeak</node>
+    <node x="40.5" y="153.0">\app\classes\QuackBehavior</node>
+    <node x="115.0" y="380.0">\app\classes\Duck</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\app\classes\FlyNoWay" target="\app\classes\FlyBehavior">
+      <point x="0.0" y="-14.5" />
+      <point x="168.0" y="54.0" />
+      <point x="133.5" y="54.0" />
+      <point x="23.25" y="14.5" />
+    </edge>
+    <edge source="\app\classes\quack" target="\app\classes\QuackBehavior">
+      <point x="0.0" y="-14.5" />
+      <point x="146.0" y="207.0" />
+      <point x="124.5" y="207.0" />
+      <point x="28.0" y="14.5" />
+    </edge>
+    <edge source="\app\classes\FlyWithWings" target="\app\classes\FlyBehavior">
+      <point x="0.0" y="-14.5" />
+      <point x="52.5" y="54.0" />
+      <point x="87.0" y="54.0" />
+      <point x="-23.25" y="14.5" />
+    </edge>
+    <edge source="\app\classes\MuteQuack" target="\app\classes\QuackBehavior">
+      <point x="0.0" y="-14.5" />
+      <point x="47.0" y="207.0" />
+      <point x="68.5" y="207.0" />
+      <point x="-28.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="189.0" y="204.5" />
+  <SelectedNodes>
+    <node>\app\classes\DecoyDuck</node>
+  </SelectedNodes>
+  <Categories />
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
