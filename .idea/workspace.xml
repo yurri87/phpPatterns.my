@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2b1f59f-8768-450b-82c6-b9f585f7528f" name="Default" comment="" />
+    <list default="true" id="c2b1f59f-8768-450b-82c6-b9f585f7528f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/classes/Singleton2.php" afterPath="$PROJECT_DIR$/app/classes/Singleton2.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +60,8 @@
       <file leaf-file-name="Singleton2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/classes/Singleton2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="179">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -547,7 +549,7 @@
       <workItem from="1492968629353" duration="2090000" />
       <workItem from="1492973106415" duration="4696000" />
       <workItem from="1492984145826" duration="3175000" />
-      <workItem from="1492991743291" duration="8000" />
+      <workItem from="1492991743291" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="дофига всего сделал, композер поставил, аутолоад сделал">
       <created>1492536842773</created>
@@ -588,7 +590,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90778000" />
+    <option name="totallyTimeSpent" value="91156000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1396,8 +1398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/classes/Singleton2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="179">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
